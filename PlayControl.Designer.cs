@@ -85,6 +85,7 @@
             // acceptBtn
             // 
             this.acceptBtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(29)))), ((int)(((byte)(33)))));
+            this.acceptBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.acceptBtn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.acceptBtn.Font = new System.Drawing.Font("Segoe UI", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.acceptBtn.ForeColor = System.Drawing.SystemColors.ActiveCaption;
@@ -122,6 +123,7 @@
             // matchmakingBtn
             // 
             this.matchmakingBtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(8)))), ((int)(((byte)(9)))), ((int)(((byte)(8)))));
+            this.matchmakingBtn.Cursor = System.Windows.Forms.Cursors.No;
             this.matchmakingBtn.FlatAppearance.BorderSize = 0;
             this.matchmakingBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.matchmakingBtn.Font = new System.Drawing.Font("Courier New", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -139,6 +141,7 @@
             // 
             // PlayButton
             // 
+            this.PlayButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.PlayButton.FlatAppearance.BorderSize = 0;
             this.PlayButton.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(204)))), ((int)(((byte)(194)))));
             this.PlayButton.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(204)))), ((int)(((byte)(194)))));

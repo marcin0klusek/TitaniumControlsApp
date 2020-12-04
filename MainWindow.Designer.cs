@@ -44,6 +44,7 @@
             // 
             // HomeBtn
             // 
+            this.HomeBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.HomeBtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(16)))), ((int)(((byte)(23)))));
             this.HomeBtn.FlatAppearance.BorderSize = 0;
             this.HomeBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(204)))), ((int)(((byte)(194)))));
@@ -75,6 +76,7 @@
             // 
             // PlayBtn
             // 
+            this.PlayBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.PlayBtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(16)))), ((int)(((byte)(23)))));
             this.PlayBtn.FlatAppearance.BorderSize = 0;
             this.PlayBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(204)))), ((int)(((byte)(194)))));
@@ -130,6 +132,7 @@
             // 
             // ShopBtn
             // 
+            this.ShopBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.ShopBtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(16)))), ((int)(((byte)(23)))));
             this.ShopBtn.FlatAppearance.BorderSize = 0;
             this.ShopBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(204)))), ((int)(((byte)(194)))));
@@ -182,7 +185,7 @@
             this.MinimumSize = new System.Drawing.Size(1440, 900);
             this.Name = "MainWindow";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Titanium";
+            this.Text = "Titanium - @s13859";
             this.Load += new System.EventHandler(this.MainWindow_Load);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.AvatarPlayer)).EndInit();

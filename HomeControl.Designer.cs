@@ -75,6 +75,7 @@ namespace TitaniumControlsApp
             // postBtn
             // 
             this.postBtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(73)))), ((int)(((byte)(112)))), ((int)(((byte)(110)))));
+            this.postBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.postBtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(16)))), ((int)(((byte)(23)))));
             this.postBtn.FlatAppearance.BorderSize = 0;
             this.postBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(43)))), ((int)(((byte)(46)))), ((int)(((byte)(63)))));
@@ -119,6 +120,7 @@ namespace TitaniumControlsApp
             // 
             // pictureBox4
             // 
+            this.pictureBox4.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
             this.pictureBox4.Location = new System.Drawing.Point(476, 11);
             this.pictureBox4.Name = "pictureBox4";
@@ -129,6 +131,7 @@ namespace TitaniumControlsApp
             // 
             // insta
             // 
+            this.insta.Cursor = System.Windows.Forms.Cursors.Hand;
             this.insta.Image = ((System.Drawing.Image)(resources.GetObject("insta.Image")));
             this.insta.Location = new System.Drawing.Point(446, 11);
             this.insta.Name = "insta";
@@ -139,6 +142,7 @@ namespace TitaniumControlsApp
             // 
             // facebook
             // 
+            this.facebook.Cursor = System.Windows.Forms.Cursors.Hand;
             this.facebook.Image = ((System.Drawing.Image)(resources.GetObject("facebook.Image")));
             this.facebook.Location = new System.Drawing.Point(416, 11);
             this.facebook.Name = "facebook";
@@ -149,6 +153,7 @@ namespace TitaniumControlsApp
             // 
             // twitter
             // 
+            this.twitter.Cursor = System.Windows.Forms.Cursors.Hand;
             this.twitter.Image = ((System.Drawing.Image)(resources.GetObject("twitter.Image")));
             this.twitter.Location = new System.Drawing.Point(386, 11);
             this.twitter.Name = "twitter";

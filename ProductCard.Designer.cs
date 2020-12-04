@@ -53,6 +53,7 @@
             // BuyBtn
             // 
             this.BuyBtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(47)))), ((int)(((byte)(54)))));
+            this.BuyBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.BuyBtn.FlatAppearance.BorderSize = 0;
             this.BuyBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(189)))), ((int)(((byte)(222)))));
             this.BuyBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
